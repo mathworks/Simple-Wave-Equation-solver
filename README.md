@@ -9,3 +9,4 @@ Implementation of a simple numerical schemes for the wave equation using the sec
 See SimpleWaveEquation.pdf for details.
 
 Copyright 2015-2016 The MathWorks, Inc.
+[![View Simple Wave Equation solver on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/59915-simple-wave-equation-solver)
