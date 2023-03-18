@@ -1,5 +1,5 @@
 # Finite differences for the wave equation
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Simple-Wave-Equation-solver)
 
 Implementation of a simple numerical schemes for the wave equation.
 
